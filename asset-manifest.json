@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/climatologia/static/css/main.85485b5d.chunk.css",
-    "main.js": "/climatologia/static/js/main.7b08501e.chunk.js",
-    "main.js.map": "/climatologia/static/js/main.7b08501e.chunk.js.map",
+    "main.js": "/climatologia/static/js/main.15a8edc1.chunk.js",
+    "main.js.map": "/climatologia/static/js/main.15a8edc1.chunk.js.map",
     "runtime-main.js": "/climatologia/static/js/runtime-main.397ee796.js",
     "runtime-main.js.map": "/climatologia/static/js/runtime-main.397ee796.js.map",
     "static/js/2.e92112f3.chunk.js": "/climatologia/static/js/2.e92112f3.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.397ee796.js",
     "static/js/2.e92112f3.chunk.js",
     "static/css/main.85485b5d.chunk.css",
-    "static/js/main.7b08501e.chunk.js"
+    "static/js/main.15a8edc1.chunk.js"
   ]
 }
